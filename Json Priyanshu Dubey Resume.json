@@ -1,0 +1,300 @@
+{
+    "basics": {
+        "name": "PRIYANSHU DUBEY",
+        "email": "priyanshu0dubey@gmail.com",
+        "phone": "9570175896",
+        "photo": {
+            "url": "",
+            "filters": {
+                "size": 128,
+                "shape": "square",
+                "border": false,
+                "grayscale": false
+            },
+            "visible": true
+        },
+        "summary": "",
+        "website": "priyanshudubey.tech",
+        "headline": "SYSTEMS ENGINEER AT TCS",
+        "location": {
+            "city": "Daltonganj",
+            "region": "Jharkhand",
+            "address": "",
+            "country": "",
+            "postalCode": ""
+        },
+        "profiles": [
+            {
+                "id": "a98646b1-5793-496c-bc06-d045709bf86c",
+                "url": "https://github.com/priyanshudubey",
+                "network": "Github",
+                "username": "priyanshudubey"
+            },
+            {
+                "id": "a8e7ffb8-10fd-4112-817f-32a7b19fa6bb",
+                "url": "https://www.linkedin.com/in/priyanshudubey/",
+                "network": "linkedin",
+                "username": "priyanshudubey"
+            }
+        ],
+        "birthdate": ""
+    },
+    "sections": {
+        "work": {
+            "id": "work",
+            "name": "Work Experience",
+            "type": "basic",
+            "items": [
+                {
+                    "id": "e1b4f1c0-5f2f-49be-8dc8-db6aef3595ae",
+                    "url": "",
+                    "date": {
+                        "end": "",
+                        "start": "2021-07-01T13:50:47.000Z"
+                    },
+                    "name": "TCS",
+                    "summary": "• Working as a Backend Developer for a leading airline industry in Canada.\n\n• Learned and used modern technologies like Node.js, AWS, JEST,   Serverless, and Rest API.\n\n• Developed various services like Biometrics, Notification Services, Profiles, \n  Cron job scheduler, Boarding Pass, Rest API, Akamai mapping, etc.\n\n• Integrated third-party applications to the project like Kafka, SonarQube,   and Kibana",
+                    "position": "Systems Engineer"
+                },
+                {
+                    "id": "59e0e066-935a-4a0e-ab91-c8afdca77587",
+                    "url": "",
+                    "date": {
+                        "end": "2020-12-31T13:53:56.000Z",
+                        "start": "2020-10-01T13:53:28.000Z"
+                    },
+                    "name": "Triluxo Technologies",
+                    "summary": "• Solely responsible for designing and developing the hotel chatbot that simplifies raising requests and inquiries.\n\n• Chatbot provides an interface for accessible communication to get amenities from room service, call for room cleaning, order food from the hotel’s restaurant, and ask any queries from the front desk.\n\n• Used various technologies like Google Dialogflow, Node.js, and Firebase.",
+                    "position": "Technology Development Intern"
+                },
+                {
+                    "id": "a3e8d895-e283-472f-b649-0fa0524b4208",
+                    "url": "",
+                    "date": {
+                        "end": "2020-09-30T13:56:28.000Z",
+                        "start": "2020-07-01T13:56:18.000Z"
+                    },
+                    "name": "Gallant Fusion Tech",
+                    "summary": "• Developed backend and database for a golf game application. Also, integrated a third-party module named passport-jwt for validating endpoints.\n\n• Used various technologies like Node.js, Express.js, and MySQL.",
+                    "position": "Software Developer Intern"
+                }
+            ],
+            "columns": 1,
+            "visible": true
+        },
+        "awards": {
+            "id": "awards",
+            "name": "Awards",
+            "type": "basic",
+            "items": [],
+            "columns": 2,
+            "visible": true
+        },
+        "skills": {
+            "id": "skills",
+            "name": "Skills",
+            "type": "basic",
+            "items": [
+                {
+                    "id": "fe5d9839-13be-4c36-9d7b-bec4b128bf41",
+                    "name": "Node.js",
+                    "level": "",
+                    "keywords": [],
+                    "levelNum": 7
+                },
+                {
+                    "id": "e85b687c-d7a5-40e1-bcca-0b6d9e53dab5",
+                    "name": "AWS",
+                    "level": "",
+                    "keywords": [],
+                    "levelNum": 5
+                },
+                {
+                    "id": "51cb6669-500c-49c4-b38e-0f43d9018fe2",
+                    "name": "Python",
+                    "level": "",
+                    "keywords": [],
+                    "levelNum": 7
+                },
+                {
+                    "id": "8d86c624-1ac4-495b-a645-90a1fef6dfe0",
+                    "name": "Serverless",
+                    "level": "",
+                    "keywords": [],
+                    "levelNum": 7
+                },
+                {
+                    "id": "cbd7356a-7dfb-49dd-ab96-c1e2fa26407a",
+                    "name": "MySQL",
+                    "level": "",
+                    "keywords": [],
+                    "levelNum": 7
+                },
+                {
+                    "id": "ac30e308-c627-4272-8f89-364184fac66b",
+                    "name": "JavaScript",
+                    "level": "",
+                    "keywords": [],
+                    "levelNum": 7
+                },
+                {
+                    "id": "b6efe94b-3ea8-4f64-90ed-857cedaebab0",
+                    "name": "C++",
+                    "level": "",
+                    "keywords": [],
+                    "levelNum": 6
+                },
+                {
+                    "id": "def16b4f-bec0-400c-8560-85787fdb0a82",
+                    "name": "HTML/CSS",
+                    "level": "",
+                    "keywords": [],
+                    "levelNum": 8
+                }
+            ],
+            "columns": 2,
+            "visible": true
+        },
+        "projects": {
+            "id": "projects",
+            "name": "Projects",
+            "type": "basic",
+            "items": [
+                {
+                    "id": "6b30c0f6-91ad-4d21-9e58-c83f40105f3c",
+                    "url": "",
+                    "date": {
+                        "end": "2021-11-30T14:29:55.000Z",
+                        "start": "2021-11-10T14:29:39.000Z"
+                    },
+                    "name": "CLI RESUME",
+                    "summary": "Designed and developed this command line resume in Node.js. This is available as an npm package on the npm package\nmanager website. You can download and visualize my resume through CLI.",
+                    "keywords": [],
+                    "description": "Command Line Resume"
+                }
+            ],
+            "columns": 1,
+            "visible": true
+        },
+        "education": {
+            "id": "education",
+            "name": "Education",
+            "type": "basic",
+            "items": [
+                {
+                    "id": "2d99c6e2-10ca-4438-a4b4-264f82d79f5b",
+                    "url": "",
+                    "area": "Computer Science",
+                    "date": {
+                        "end": "2021-07-15T14:23:00.000Z",
+                        "start": "2016-08-15T14:22:50.000Z"
+                    },
+                    "score": "7.9",
+                    "degree": "Bachelor of Technology",
+                    "courses": [],
+                    "summary": "",
+                    "institution": "Sagar Institute Of Science and Technology"
+                }
+            ],
+            "columns": 1,
+            "visible": true
+        },
+        "interests": {
+            "id": "interests",
+            "name": "Interests",
+            "type": "basic",
+            "items": [],
+            "columns": 2,
+            "visible": true
+        },
+        "languages": {
+            "id": "languages",
+            "name": "Languages",
+            "type": "basic",
+            "items": [],
+            "columns": 4,
+            "visible": true
+        },
+        "volunteer": {
+            "id": "volunteer",
+            "name": "Volunteer Experience",
+            "type": "basic",
+            "items": [],
+            "columns": 2,
+            "visible": true
+        },
+        "references": {
+            "id": "references",
+            "name": "References",
+            "type": "basic",
+            "items": [],
+            "columns": 2,
+            "visible": true
+        },
+        "publications": {
+            "id": "publications",
+            "name": "Publications",
+            "type": "basic",
+            "items": [],
+            "columns": 2,
+            "visible": true
+        },
+        "certifications": {
+            "id": "certifications",
+            "name": "Certifications",
+            "type": "basic",
+            "items": [],
+            "columns": 2,
+            "visible": true
+        }
+    },
+    "metadata": {
+        "css": {
+            "value": "/* Enter custom CSS here */\n\n* {\n    outline: 1px solid #000;\n}",
+            "visible": false
+        },
+        "date": {
+            "format": "MMM YYYY"
+        },
+        "page": {
+            "format": "A4"
+        },
+        "theme": {
+            "text": "#000000",
+            "primary": "#f44336",
+            "background": "#ffffff"
+        },
+        "layout": [
+            [
+                [
+                    "work",
+                    "education",
+                    "projects",
+                    "volunteer",
+                    "references"
+                ],
+                [
+                    "skills",
+                    "interests",
+                    "languages",
+                    "awards",
+                    "certifications",
+                    "publications"
+                ]
+            ]
+        ],
+        "locale": "en",
+        "template": "pikachu",
+        "typography": {
+            "size": {
+                "body": 14,
+                "heading": 23
+            },
+            "family": {
+                "body": "Open Sans",
+                "heading": "Open Sans"
+            }
+        }
+    },
+    "public": true
+}
